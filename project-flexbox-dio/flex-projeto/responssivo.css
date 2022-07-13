@@ -1,0 +1,10 @@
+@media(max-width:992px){
+    .flex-container{
+        flex-direction: column;
+    }
+    .apresentacao{
+        flex-direction: column-reverse;
+    }
+    
+}
+
